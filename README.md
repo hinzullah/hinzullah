@@ -2,14 +2,6 @@
 
 Frontend developer focused on building clean, responsive user experiences using HTML, CSS, and JavaScript — with growing experience in TypeScript, React, and Web3 / smart contracts. I enjoy building interactive front-ends, learning blockchain tooling (Foundry, Hardhat, Solidity), and shipping small, useful full‑stack projects.
 
-- Location: (add your city/country)
-- Pronouns: (optional)
-- 32 followers · 33 following
-- Organization: @code2geda
-- Achievement: Pull Shark
-
----
-
 ## 🔭 What I build
 I work on frontend applications, small full-stack apps, and Web3 projects — from UI components and animations to smart-contract experiments and dApps.
 
